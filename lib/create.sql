@@ -7,4 +7,4 @@ CREATE TABLE bears(
   temperment TEXT,
   alive BOOLEAN,
 
-);
+)
